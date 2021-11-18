@@ -86,3 +86,10 @@ const start = () => {
 };
 
 start();
+
+const a = 5;
+const b = 3;
+const add = (a, b) => {
+  return a + b;
+};
+add(3, 5);
